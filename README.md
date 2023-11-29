@@ -1,2 +1,2 @@
 # StudentRegistration3
-hello ther
+hello there
